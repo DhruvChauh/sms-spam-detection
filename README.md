@@ -83,7 +83,7 @@ jupyter notebook
 
 **Dhruv Chauhan**
 Department of CSE (AI & ML), SRM Institute of Science and Technology, Kattankulathur
-[LinkedIn](https://linkedin.com/in/your-linkedin) | dc0175@srmist.edu.in
+dc0175@srmist.edu.in
 
 
 ## 📜 Citation
